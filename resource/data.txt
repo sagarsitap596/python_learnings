@@ -1,0 +1,821 @@
+Lanes Closed,Night Time Construction
+Ramp Closed,Night Time Construction
+Lane Closed,Night Time Construction
+Road Closed with Detour,Night Time Construction
+Lanes Closed,Night Time Construction
+Lane Closed,Night Time Construction
+Cleared,Night Time Construction
+Lane Closed,Night Time Construction
+Ramp Closed,Night Time Construction
+Road Closed with Detour,Night Time Construction
+Lanes Closed,Night Time Maintenance
+Lane Closed,Night Time Maintenance
+Lanes Closed,Night Time Maintenance
+Lanes Closed,Night Time Maintenance
+Ramp Closed,Night Time Construction
+Road Closed with Detour,Weather Event
+Road Closed with Detour,Weather Event
+Ramp Closed,Night Time Construction
+Lanes Closed,Night Time Construction
+Lanes Closed,Night Time Construction
+Lane Closed,Night Time Construction
+Lane Closed,Night Time Construction
+Lane Closed,Night Time Construction
+Lanes Closed,Night Time Construction
+Lane Closed,Night Time Maintenance
+Lane Closed,Night Time Maintenance
+Lane Closed,Night Time Maintenance
+Road Closed,Night Time Construction
+Shoulder Closed,Maintenance
+Lane Closed,Night Time Construction
+Road Closed with Detour,Maintenance
+Ramp Lane Narrowed,Maintenance
+Road Closed,Construction
+Lanes Closed,Construction
+Lane Closed,Night Time Construction
+Lane Closed,Maintenance
+Road Impassable,Weather Event
+Road Closed,Weather Event
+Road Impassable,Weather Event
+Road Closed,Weather Event
+Ramp Closed,Night Time Construction
+Ramp Closed,Night Time Construction
+Road Closed,Weather Event
+Lane Narrowed,Construction
+Moving Closure,Night Time Maintenance
+Road Closed,Construction
+Lanes Closed,Night Time Maintenance
+Ramp Lane Narrowed,Night Time Maintenance
+Lane Closed,Night Time Maintenance
+Road Impassable,Other
+Ramp Lane Narrowed,Night Time Maintenance
+Ramp Lane Narrowed,Night Time Maintenance
+Ramp Closed,Night Time Maintenance
+Lane Closed,Maintenance
+Road Closed,Maintenance
+Road Closed with Detour,Maintenance
+Road Closed,Maintenance
+Lane Closed,Maintenance
+Road Closed with Detour,Maintenance
+Road Closed,Maintenance
+Road Closed,Construction
+Road Closed,Maintenance
+Road Closed with Detour,Night Time Construction
+Lane Closed,Maintenance
+Lane Closed,Maintenance
+Road Closed,Weather Event
+Road Closed,Weather Event
+Road Closed,Weather Event
+Road Closed,Weather Event
+Lanes Closed,Night Time Construction
+Shoulder Closed,Construction
+Lane Closed,Night Time Maintenance
+Road Closed,Weather Event
+Road Closed with,Other
+Road Closed with Detour,Night Time Construction
+Road Closed with Detour,Weather Event
+Lane Closed,Night Time Construction
+Lanes Closed,Construction
+Lane Closed,Construction
+Lanes Closed,Construction
+Road Closed with Detour,Weather Event
+Road Closed with Detour,Maintenance
+Road Closed,Maintenance
+Lane Closed,Maintenance
+Lane Closed,Maintenance
+Road Closed with Detour,Maintenance
+Lane Closed,Maintenance
+Road Closed with Detour,Maintenance
+Lane Narrowed,Construction
+Road Closed,Maintenance
+Cleared,Weather Event
+Lane Closed,Night Time Construction
+Road Closed with Detour,Maintenance
+Road Closed with Detour,Maintenance
+Road Closed,Weather Event
+Road Closed,Weather Event
+Road Closed,Weather Event
+Road Closed,Weather Event
+Road Closed,Weather Event
+Lane Closed,Maintenance
+Road Closed with Detour,Maintenance
+Road Closed with Detour,Maintenance
+Lane Closed,Construction
+Shoulder Closed,Weather Event
+Road Closed with Detour,Construction
+Lane Closed,Maintenance
+Lane Closed,Maintenance
+Lane Closed,Maintenance
+Road Closed with Detour,Maintenance
+Road Closed,Weather Event
+Road Closed,Weather Event
+Lane Closed,Night Time Maintenance
+Road Closed,Maintenance
+Lanes Closed,Night Time Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Weather Event
+Road Closed with Detour,Construction
+Road Closed with Detour,Maintenance
+Road Closed,Weather Event
+Road Closed with Detour,Maintenance
+Road Closed with Detour,Weather Event
+Lanes Closed,Night Time Construction
+Road Impassable,Weather Event
+Road Closed,Construction
+Lanes Closed,Night Time Construction
+Road Closed with Detour,Maintenance
+Road Closed,Weather Event
+Road Closed with Detour,Construction
+Road Closed with Detour,Maintenance
+Lane Closed,Construction
+Ramp Closed,Construction
+Ramp Closed,Construction
+Road Closed,Maintenance
+Road Closed,Construction
+Road Closed,Weather Event
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Maintenance
+Road Closed with Detour,Construction
+Road Closed,Construction
+Lanes Closed,Construction
+Road Closed with Detour,Maintenance
+Road Closed,Maintenance
+Lanes Closed,Night Time Construction
+Lanes Closed,Night Time Construction
+Lanes Closed,Construction
+Road Impassable,Weather Event
+Road Closed with Detour,Weather Event
+Road Closed,Weather Event
+Road Impassable,Weather Event
+Road Closed,Weather Event
+Road Closed with Detour,Weather Event
+Road Closed,Weather Event
+Road Closed,Weather Event
+Road Impassable,Weather Event
+Lane Closed,Maintenance
+Road Closed,Weather Event
+Road Closed with Detour,Weather Event
+Road Closed,Weather Event
+Road Closed,Other
+Congestion,Construction
+Congestion,Construction
+Ramp Lane Closed,Maintenance
+Moving Closure,Maintenance
+Road Closed,Construction
+Lanes Closed,Construction
+Road Closed with Detour,Weather Event
+Road Closed with Detour,Weather Event
+Road Closed with Detour,Construction
+Road Closed,Weather Event
+Road Closed with Detour,Night Time Construction
+Lanes Closed,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Weather Event
+Road Closed with Detour,Weather Event
+Road Closed,Weather Event
+Cleared,Night Time Construction
+Road Closed,Other
+Road Closed,Weather Event
+Road Closed,Weather Event
+Road Closed,Weather Event
+Ramp Closed,Construction
+Road Closed with Detour,Weather Event
+Road Closed,Construction
+Road Closed with Detour,Construction
+Road Closed,Construction
+Lane Closed,Maintenance
+Road Closed,Construction
+Lane Closed,Maintenance
+Lane Closed,Maintenance
+Road Closed with Detour,Construction
+Road Closed,Construction
+Road Closed with Detour,Construction
+Lanes Closed,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Road Impassable,Weather Event
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Weather Event
+Road Closed,Weather Event
+Road Closed with Detour,Construction
+Ramp Closed,Construction
+Ramp Closed,Construction
+Lane Closed,Construction
+Lanes Closed,Maintenance
+Congestion,Other
+Road Closed,Special Event
+Road Closed,Construction
+Lane Closed,Weather Event
+Road Closed,Weather Event
+Lane Narrowed,Construction
+Road Closed,Weather Event
+Lanes Closed,Night Time Maintenance
+Road Closed,Weather Event
+Lanes Closed,Night Time Construction
+Road Closed,Weather Event
+Road Closed,Weather Event
+Road Closed,Weather Event
+Road Closed,Weather Event
+Road Closed,Weather Event
+Congestion,Construction
+Road Closed,Weather Event
+Road Closed,Weather Event
+Shoulder Closed,Weather Event
+Road Impassable,Weather Event
+Lane Closed,Night Time Construction
+Road Closed,Construction
+Road Closed with Detour,Construction
+Lane Closed,Construction
+Road Closed,Construction
+Lane Closed,Construction
+Lane Closed,Maintenance
+Lane Closed,Maintenance
+Road Closed,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Permanent Road Closure,Construction
+Permanent Road Closure,Construction
+Permanent Road Closure,Construction
+Permanent Road Closure,Construction
+Road Closed with Detour,Construction
+Road Closed,Construction
+Lanes Closed,Night Time Construction
+Road Impassable,Weather Event
+Road Impassable,Weather Event
+Road Closed with Detour,Weather Event
+Lane Closed,Night Time Construction
+Ramp Closed,Construction
+Lane Closed,Construction
+Road Closed,Construction
+Road Closed with Detour,Construction
+Road Closed,Special Event
+Road Closed with Detour,Weather Event
+Road Closed,Weather Event
+Road Closed,Weather Event
+Road Closed,Construction
+Road Closed with Detour,Maintenance
+Road Closed with Detour,Weather Event
+Road Closed with Detour,Construction
+Road Closed,Maintenance
+Road Impassable,Weather Event
+Road Closed,Weather Event
+Rest Area Closed,Weather Event
+Road Closed,Weather Event
+Road Closed,Weather Event
+Road Closed,Maintenance
+Lanes Closed,Night Time Construction
+Road Closed,Construction
+Lanes Closed,Construction
+Road Closed with Detour,Construction
+Road Impassable,Weather Event
+Road Impassable,Weather Event
+Road Closed,Weather Event
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Road Closed,Weather Event
+Congestion,Construction
+Road Closed,Maintenance
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Congestion,Construction
+Road Closed with Detour,Construction
+Lanes Closed,Construction
+Lane Closed,Construction
+Road Closed,Maintenance
+Lane Closed,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Road Closed,Maintenance
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Congestion,Construction
+Lane Closed,Construction
+Road Closed,Construction
+Ramp Closed,Construction
+Congestion,Construction
+Road Closed,Construction
+Permanent Road Closure,Construction
+Lane Closed,Construction
+Lane Closed,Construction
+Shoulder Closed,Construction
+Lane Closed,Construction
+Lane Closed,Construction
+Congestion,Construction
+Congestion,Construction
+Shoulder Closed,Construction
+Lanes Closed,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Lane Closed,Construction
+Road Closed with Detour,Construction
+Lane Closed,Construction
+Lane Closed,Construction
+Lane Closed,Construction
+Lane Closed,Construction
+Lanes Closed,Construction
+Road Closed with Detour,Other
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Lane Closed,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Road Closed,Construction
+Road Closed,Construction
+Road Closed,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Road Closed,Construction
+Road Closed with Detour,Construction
+Lanes Closed,Construction
+Permanent Road Closure,Other
+Road Closed with Detour,Construction
+Lane Closed,Night Time Construction
+Lane Closed,Night Time Construction
+Moving Closure,Night Time Maintenance
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Road Closed,Construction
+Road Closed,Construction
+Lane Narrowed,Construction
+Road Closed,Other
+Road Closed with Detour,Construction
+Cleared,Construction
+Road Closed with Detour,Construction
+Road Closed,Construction
+Lanes Closed,Construction
+Lanes Narrowed,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Road Closed,Construction
+Lanes Narrowed,Construction
+Congestion,Construction
+Ramp Closed,Construction
+Ramp Closed,Construction
+Shoulder Closed,Construction
+Lanes Closed,Night Time Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Shoulder Closed,Construction
+Ramp Closed,Construction
+Road Closed with Detour,Construction
+Shoulder Closed,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Shoulder Closed,Construction
+Road Closed with Detour,Construction
+Lane Closed,Construction
+Lanes Closed,Construction
+Shoulder Closed,Construction
+Congestion,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Lane Closed,Construction
+Lane Closed,Construction
+Road Closed,Construction
+Congestion,Construction
+Congestion,Construction
+Road Closed with Detour,Construction
+Lanes Narrowed,Construction
+Lane Narrowed,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Lanes Narrowed,Construction
+Road Closed,Construction
+Road Closed with Detour,Construction
+Lanes Closed,Construction
+Road Closed,Construction
+Road Closed,Construction
+Lane Closed,Other
+Road Closed,Construction
+Road Closed,Construction
+Lane Closed,Construction
+Congestion,Construction
+Lane Closed,Construction
+Congestion,Construction
+Congestion,Construction
+Road Closed with Detour,Construction
+Congestion,Construction
+Lane Closed,Construction
+Road Closed,Construction
+Lane Closed,Maintenance
+Shoulder Closed,Vehicle Crash
+Road Closed,Maintenance
+Shoulder Closed,Vehicle Crash
+Lane Closed,Vehicle Crash
+Congestion,Reported Incident
+Shoulder Closed,Vehicle Crash
+Lane Closed,Night Time Maintenance
+Lanes Closed,Maintenance
+Road Closed with Detour,Maintenance
+Road Closed,Maintenance
+Lane Closed,Maintenance
+Lane Closed,Vehicle Crash
+Lanes Closed,Vehicle Crash
+Lanes Closed,Vehicle Crash
+Lane Closed,Maintenance
+Road Closed,Maintenance
+Lanes Closed,Vehicle Crash
+Road Closed with Detour,Night Time Construction
+Road Closed with Detour,Construction
+Road Closed,Maintenance
+Road Closed,Maintenance
+Shoulder Closed,Maintenance
+Shoulder Closed,Maintenance
+Shoulder Closed,Maintenance
+Road Closed,Maintenance
+Road Closed,Construction
+Road Closed with Detour,Construction
+Lane Closed,Construction
+Lane Closed,Maintenance
+Lane Closed,Construction
+Road Closed,Construction
+Lane Closed,Night Time Construction
+Road Closed,Special Event
+Lane Closed,Maintenance
+Road Closed with Detour,Construction
+Ramp Lane Closed,Maintenance
+Shoulder Closed,Construction
+Road Closed with Detour,Construction
+Shoulder Closed,Construction
+Lane Closed,Night Time Construction
+Ramp Closed,Maintenance
+Road Closed,Weather Event
+Road Closed with Detour,Construction
+Lanes Closed,Weekend Construction
+Road Closed,Construction
+Road Closed,Construction
+Road Closed,Construction
+Road Closed,Weather Event
+Road Closed,Weather Event
+Road Closed with Detour,Weather Event
+Road Closed with Detour,Weather Event
+Lane Closed,Night Time Construction
+Lanes Closed,Construction
+Road Impassable,Weather Event
+Road Closed,Weather Event
+Road Impassable,Weather Event
+Road Closed,Weather Event
+Lane Narrowed,Construction
+Road Closed,Construction
+Road Impassable,Other
+Lane Closed,Maintenance
+Road Closed with Detour,Maintenance
+Lane Closed,Maintenance
+Road Closed,Maintenance
+Road Closed,Construction
+Road Closed,Maintenance
+Road Closed with Detour,Night Time Construction
+Lane Closed,Maintenance
+Road Closed,Weather Event
+Road Closed,Weather Event
+Road Closed,Weather Event
+Lanes Closed,Night Time Construction
+Shoulder Closed,Construction
+Lane Closed,Night Time Maintenance
+Road Closed,Weather Event
+Road Closed with Detour,Other
+Road Closed with Detour,Weather Event
+Lane Closed,Night Time Construction
+Lanes Closed,Construction
+Lanes Closed,Construction
+Road Closed with Detour,Weather Event
+Road Closed with Detour,Maintenance
+Road Closed,Maintenance
+Lane Closed,Maintenance
+Lane Closed,Maintenance
+Road Closed with Detour,Maintenance
+Lane Closed,Maintenance
+Lane Narrowed,Construction
+Road Closed,Maintenance
+Cleared,Weather Event
+Road Closed with Detour,Maintenance
+Road Closed with Detour,Maintenance
+Road Closed,Weather Event
+Road Closed,Weather Event
+Road Closed,Weather Event
+Road Closed,Weather Event
+Road Closed,Weather Event
+Lane Closed,Maintenance
+Lane Closed,Construction
+Shoulder Closed,Weather Event
+Road Closed with Detour,Construction
+Lane Closed,Maintenance
+Road Closed with Detour,Maintenance
+Road Closed,Weather Event
+Road Closed,Weather Event
+Lane Closed,Night Time Maintenance
+Road Closed,Maintenance
+Lanes Closed,Night Time Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Weather Event
+Road Closed with Detour,Construction
+Road Closed with Detour,Maintenance
+Road Closed,Weather Event
+Road Closed with Detour,Maintenance
+Road Closed with Detour,Weather Event
+Lanes Closed,Night Time Construction
+Road Impassable,Weather Event
+Road Closed,Construction
+Lanes Closed,Night Time Construction
+Road Closed with Detour,Maintenance
+Road Closed,Weather Event
+Road Closed with Detour,Construction
+Road Closed with Detour,Maintenance
+Lane Closed,Construction
+Ramp Closed,Construction
+Ramp Closed,Construction
+Road Closed,Maintenance
+Road Closed,Construction
+Road Closed,Weather Event
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Maintenance
+Road Closed with Detour,Construction
+Road Closed,Construction
+Lanes Closed,Construction
+Road Closed with Detour,Maintenance
+Road Closed,Maintenance
+Lanes Closed,Night Time Construction
+Lanes Closed,Night Time Construction
+Lanes Closed,Construction
+Road Impassable,Weather Event
+Road Closed with Detour,Weather Event
+Road Closed,Weather Event
+Road Impassable,Weather Event
+Road Closed,Weather Event
+Road Closed with Detour,Weather Event
+Road Closed,Weather Event
+Road Closed,Weather Event
+Road Impassable,Weather Event
+Lane Closed,Maintenance
+Road Closed,Weather Event
+Road Closed with Detour,Weather Event
+Road Closed,Weather Event
+Road Closed,Other
+Congestion,Construction
+Congestion,Construction
+Ramp Lane Closed,Maintenance
+Moving Closure,Maintenance
+Lanes Closed,Construction
+Road Closed with Detour,Weather Event
+Road Closed with Detour,Weather Event
+Road Closed with Detour,Construction
+Road Closed,Weather Event
+Road Closed with Detour,Night Time Construction
+Lanes Closed,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Weather Event
+Road Closed,Weather Event
+Cleared,Night Time Construction
+Road Closed,Other
+Road Closed,Weather Event
+Road Closed,Weather Event
+Ramp Closed,Construction
+Road Closed with Detour,Weather Event
+Road Closed,Construction
+Road Closed with Detour,Construction
+Road Closed,Construction
+Lane Closed,Maintenance
+Road Closed,Construction
+Lane Closed,Maintenance
+Road Closed with Detour,Construction
+Road Closed,Construction
+Road Closed with Detour,Construction
+Lanes Closed,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Road Impassable,Weather Event
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Weather Event
+Road Closed with Detour,Construction
+Ramp Closed,Construction
+Ramp Closed,Construction
+Lane Closed,Construction
+Lanes Closed,Maintenance
+Road Closed,Special Event
+Road Closed,Construction
+Lane Closed,Weather Event
+Road Closed,Weather Event
+Lane Narrowed,Construction
+Lanes Closed,Night Time Maintenance
+Road Closed,Weather Event
+Lanes Closed,Night Time Construction
+Road Closed,Weather Event
+Road Closed,Weather Event
+Road Closed,Weather Event
+Road Closed,Weather Event
+Congestion,Construction
+Road Closed,Weather Event
+Road Closed,Weather Event
+Shoulder Closed,Weather Event
+Road Impassable,Weather Event
+Lane Closed,Night Time Construction
+Road Closed,Construction
+Road Closed with Detour,Construction
+Lane Closed,Construction
+Road Closed,Construction
+Lane Closed,Construction
+Lane Closed,Maintenance
+Lane Closed,Maintenance
+Road Closed,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Permanent Road Closure,Construction
+Permanent Road Closure,Construction
+Permanent Road Closure,Construction
+Permanent Road Closure,Construction
+Road Closed with Detour,Construction
+Road Closed,Construction
+Lanes Closed,Night Time Construction
+Road Impassable,Weather Event
+Road Impassable,Weather Event
+Road Closed with Detour,Weather Event
+Lane Closed,Night Time Construction
+Ramp Closed,Construction
+Lane Closed,Construction
+Road Closed,Construction
+Road Closed with Detour,Construction
+Road Closed,Special Event
+Road Closed with Detour,Weather Event
+Road Closed,Weather Event
+Road Closed,Weather Event
+Road Closed,Construction
+Road Closed with Detour,Maintenance
+Road Closed with Detour,Weather Event
+Road Closed with Detour,Construction
+Road Closed,Maintenance
+Road Impassable,Weather Event
+Road Closed,Weather Event
+Rest Area Closed,Weather Event
+Road Closed,Weather Event
+Road Closed,Weather Event
+Road Closed,Maintenance
+Lanes Closed,Night Time Construction
+Road Closed,Construction
+Lanes Closed,Construction
+Road Closed with Detour,Construction
+Road Impassable,Weather Event
+Road Impassable,Weather Event
+Road Closed,Weather Event
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Road Closed,Weather Event
+Congestion,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Congestion,Construction
+Road Closed with Detour,Construction
+Lanes Closed,Construction
+Lane Closed,Construction
+Road Closed,Maintenance
+Lane Closed,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Road Closed,Maintenance
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Congestion,Construction
+Lane Closed,Construction
+Road Closed,Construction
+Ramp Closed,Construction
+Congestion,Construction
+Road Closed,Construction
+Permanent Road Closure,Construction
+Lane Closed,Construction
+Lane Closed,Construction
+Shoulder Closed,Construction
+Lane Closed,Construction
+Lane Closed,Construction
+Congestion,Construction
+Congestion,Construction
+Shoulder Closed,Construction
+Lanes Closed,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Lane Closed,Construction
+Road Closed with Detour,Construction
+Lane Closed,Construction
+Lane Closed,Construction
+Lane Closed,Construction
+Lane Closed,Construction
+Lanes Closed,Construction
+Road Closed with Detour,Other
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Lane Closed,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Road Closed,Construction
+Road Closed,Construction
+Road Closed,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Road Closed,Construction
+Road Closed with Detour,Construction
+Lanes Closed,Construction
+Permanent Road Closure,Other
+Road Closed with Detour,Construction
+Lane Closed,Night Time Construction
+Lane Closed,Night Time Construction
+Moving Closure,Night Time Maintenance
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Road Closed,Construction
+Road Closed,Construction
+Lane Narrowed,Construction
+Road Closed,Other
+Road Closed with Detour,Construction
+Cleared,Construction
+Road Closed with Detour,Construction
+Road Closed,Construction
+Lanes Closed,Construction
+Lanes Narrowed,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Road Closed,Construction
+Lanes Narrowed,Construction
+Congestion,Construction
+Ramp Closed,Construction
+Ramp Closed,Construction
+Shoulder Closed,Construction
+Lanes Closed,Night Time Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Shoulder Closed,Construction
+Ramp Closed,Construction
+Road Closed with Detour,Construction
+Shoulder Closed,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Shoulder Closed,Construction
+Road Closed with Detour,Construction
+Lane Closed,Construction
+Lanes Closed,Construction
+Shoulder Closed,Construction
+Congestion,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Lane Closed,Construction
+Lane Closed,Construction
+Road Closed,Construction
+Congestion,Construction
+Congestion,Construction
+Road Closed with Detour,Construction
+Lanes Narrowed,Construction
+Lane Narrowed,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Road Closed with Detour,Construction
+Lanes Narrowed,Construction
+Road Closed with Detour,Construction
+Lanes Closed,Construction
+Road Closed,Construction
+Road Closed,Construction
+Lane Closed,Other
+Road Closed,Construction
+Road Closed,Construction
+Lane Closed,Construction
+Congestion,Construction
+Lane Closed,Construction
+Congestion,Construction
+Congestion,Construction
+Road Closed with Detour,Construction
+Congestion,Construction
+Lane Closed,Construction
+Road Closed,Construction
