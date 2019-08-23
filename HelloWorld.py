@@ -1,7 +1,4 @@
-import sys
-dd = input()
 
-print(dd)
 print("Hello!, sagar welcome to the world of python")
 print('My hovercraft is  full of eels')
 

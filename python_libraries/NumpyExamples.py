@@ -1,5 +1,21 @@
 import numpy as np
 
+
+
+a = np.array([[1, 2, 3], [4, 5, 6]])
+
+b = np.array([[9, 8, 7], [6, 5, 4]])
+
+a=np.concatenate((a, b))
+
+print(a)
+
+
+n,m = list(map(int,'1 2 3'.strip().split(' ')))
+
+print(n,m)
+
+
 # Code starts here
 
 # initialize NumPy array
@@ -89,6 +105,8 @@ import numpy as np
 # initialize array
 array = np.array([3, 4.5, 3 + 5j, 0])
 
+print(array.dtype)
+
 # boolean filter
 real = np.isreal(array)
 real_array = array[real]
@@ -101,6 +119,11 @@ print(real_array[1])
 print(imag_array[0])
 # Code ends here
 
+print("="*40)
 
-
-np.su
+list_of_lists = list(range(5,50,5))
+my_array = np.array(list_of_lists)
+print(my_array)
+print(my_array.reshape(3,3))
+# print(my_array.resize(3,3))
+print(my_array)

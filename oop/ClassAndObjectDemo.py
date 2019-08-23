@@ -40,6 +40,19 @@ class SportStudent(Student):
         self.dob = dob
 
 
+class StudyStudent:
+    # def __init__(self):
+    #     print("+"*50)
+
+    def show(self):
+        print("===========")
+
+
+ss1=StudyStudent
+ss1.show(ss1)
+ss=StudyStudent()
+ss.show()
+
 stud=Student("sagar",84.17,9029335578,datetime.datetime(1993,11,16,00,49,43))
 pprint(vars(stud))
 print(stud.getName())
